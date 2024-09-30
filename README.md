@@ -1,0 +1,2 @@
+CSS and HTML5 Training Project
+This project is designed to practice fundamental HTML5 and CSS techniques, with a particular emphasis on mastering float properties and display types. It serves as a hands-on exploration of various layout strategies, including the use of float, inline, block, inline-block, and flex display values. By building different components and layouts, this project aims to enhance familiarity with foundational CSS concepts and how they can be applied to create responsive and well-structured web pages.
